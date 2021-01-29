@@ -1,6 +1,6 @@
 # willberries - учебный проект в Glo Academy
 Выполнил bbtemb
-В проекте использовались языки: 
+## В проекте использовались языки: 
 - HTML
 - CSS
 - JavaScript
